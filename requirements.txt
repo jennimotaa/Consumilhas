@@ -1,5 +1,6 @@
 streamlit
 pandas
-serpapi
+SERPAPI
+google-search-results
 pydeck
-plotly
+reportlab
