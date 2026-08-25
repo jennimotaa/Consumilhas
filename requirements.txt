@@ -1,6 +1,6 @@
 streamlit
 pandas
-SERPAPI
 google-search-results
 pydeck
 reportlab
+serpapi
