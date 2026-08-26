@@ -6,3 +6,4 @@ google-search-results
 pydeck
 reportlab
 requests
+plotly
